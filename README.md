@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 🌍 I’m a front-end and back-end developer based in Iran.  
-🌱 I’m currently learning **Laravel**, **React**, and **Next.js**.  
+🌱 I’m currently learning **Laravel**, **express**, and **Next.js**.  
 🎯 My goal is to build useful, secure, and user-friendly projects with clean UI and proper data handling.  
 💡 I enjoy learning, coding, and creating new ideas.
 
